@@ -1,2 +1,4 @@
-# pong_game
- Simple version of the classic game "Pong" using Javascript p5.js.
+# Simple Classic Pong Game
+ Simple version of the classic game "Pong" using javascript p5.js.
+ 
+ 
