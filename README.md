@@ -11,4 +11,4 @@
 
 My goal was to practice javascript developing a simple game, it was very interesting to applying features like the scoreboard, the collision between ball and rackets, and the opponent's behavior (that will always let the player win :p).
 
-I Hope you enjoy!
+I Hope you enjoy! :sweat_smile:
